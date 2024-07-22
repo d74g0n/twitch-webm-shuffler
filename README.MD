@@ -10,4 +10,4 @@
 1. have a folder full of .webms 
 2. .webms filenames must be a number; starting with 0.
 3. change the variable called 'filecount' in .html file to your folders filecount.
-4. open .html file in chrome and click on body to cycle through testing.
+4. open .html file in chrome and click on body to cycle through testing. / Load into OBS browser source
